@@ -1,0 +1,37 @@
+Company,Sector,Country,Year,Environmental_Score,Social_Score,Governance_Score,ESG_Total,CO2_Emissions_MtCO2,Revenue_BillionUSD,Employees
+Volkswagen,Automotive,Germany,2023,58,62,71,63.7,20.1,293.4,684000
+BMW Group,Automotive,Germany,2023,67,70,75,70.7,10.2,153.2,155000
+Mercedes-Benz,Automotive,Germany,2023,65,68,74,69.0,11.8,153.0,166000
+BASF,Chemicals,Germany,2023,52,65,72,63.0,17.4,68.9,111000
+Bayer,Healthcare,Germany,2023,61,72,69,67.3,3.2,47.6,101000
+Siemens,Industrials,Germany,2023,70,74,78,74.0,2.4,77.8,311000
+Deutsche Bank,Finance,Germany,2023,55,60,65,60.0,0.3,28.9,90130
+Allianz,Finance,Germany,2023,63,68,73,68.0,0.2,161.7,159000
+SAP,Technology,Germany,2023,72,76,80,76.0,0.1,31.2,108000
+Deutsche Telekom,Telecom,Germany,2023,60,65,70,65.0,4.8,114.7,216528
+Shell,Energy,Netherlands,2023,38,52,61,50.3,55.0,316.6,93000
+BP,Energy,UK,2023,40,55,63,52.7,50.2,248.9,67000
+TotalEnergies,Energy,France,2023,42,56,64,54.0,48.1,218.9,101000
+Nestle,Consumer Goods,Switzerland,2023,58,65,72,65.0,8.5,94.4,337000
+Unilever,Consumer Goods,UK,2023,65,70,74,69.7,5.9,60.1,128000
+Apple,Technology,USA,2023,75,68,77,73.3,22.6,394.3,161000
+Microsoft,Technology,USA,2023,82,78,84,81.3,14.0,211.9,221000
+Google,Technology,USA,2023,79,72,76,75.7,10.2,307.4,182000
+Amazon,Retail,USA,2023,55,48,65,56.0,71.5,574.8,1541000
+Tesla,Automotive,USA,2023,78,55,60,64.3,0.1,96.8,140000
+Volkswagen,Automotive,Germany,2022,54,59,69,60.7,22.4,293.1,672000
+BMW Group,Automotive,Germany,2022,63,67,73,67.7,11.0,142.6,149000
+Mercedes-Benz,Automotive,Germany,2022,61,65,72,66.0,12.5,153.0,168000
+BASF,Chemicals,Germany,2022,48,62,70,60.0,18.9,87.3,111000
+Siemens,Industrials,Germany,2022,66,71,76,71.0,2.7,71.9,311000
+SAP,Technology,Germany,2022,69,73,78,73.3,0.12,30.9,111961
+Shell,Energy,Netherlands,2022,35,50,59,48.0,58.2,386.2,93000
+Microsoft,Technology,USA,2022,79,75,82,78.7,15.0,198.3,221000
+Amazon,Retail,USA,2022,52,45,62,53.0,75.1,513.9,1622000
+Tesla,Automotive,USA,2022,74,52,57,61.0,0.12,81.5,127855
+Volkswagen,Automotive,Germany,2021,50,57,67,58.0,24.1,250.2,672700
+BASF,Chemicals,Germany,2021,44,60,68,57.3,20.3,78.6,111000
+Shell,Energy,Netherlands,2021,31,48,57,45.3,62.0,261.5,86000
+Microsoft,Technology,USA,2021,76,72,80,76.0,16.8,168.1,181000
+SAP,Technology,Germany,2021,66,70,76,70.7,0.14,27.8,102400
+Tesla,Automotive,USA,2021,70,50,54,58.0,0.14,53.8,99290
