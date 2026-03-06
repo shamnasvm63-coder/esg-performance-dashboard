@@ -31,7 +31,7 @@ This interactive dashboard analyses **ESG (Environmental, Social, Governance) sc
 | 📈 Trends | ESG and CO2 change over time, sector improvement analysis |
 | 🔍 Compare | Side-by-side comparison of any two companies |
 | 📋 Full Data | Complete filterable dataset with colour-coded ratings |
-
+![Dashboard Screenshot](dashboard_preview.png)
 ---
 
 ## 🗂️ Dataset
